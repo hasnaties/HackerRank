@@ -1,5 +1,7 @@
 # HackerRank
-## 6. Staircase
+## 7. Birthday Cake Candles
+You are in charge of the cake for a child's birthday. Count how many candles are tallest.
+## 6. miniMaxSum
 Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
 ## 5. Staircase
 This is a staircase of size n = 4:
