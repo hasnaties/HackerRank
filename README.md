@@ -1,4 +1,6 @@
 # HackerRank
+## 6. Staircase
+Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
 ## 5. Staircase
 This is a staircase of size n = 4:
     -
