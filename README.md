@@ -1,4 +1,10 @@
 # HackerRank
+## 5. Staircase
+This is a staircase of size n = 4:
+    -
+   --
+  ---
+ ----
 ## 4. Plus Minus
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
 ## 3. Diagonal Differences (Easy)
