@@ -1,4 +1,6 @@
 # HackerRank
+## 9. Hourglass Sum
+Given a 6 * 6 Array and an hourglass in array is a subset of values with indices falling in hourglass pattern in 's graphical representation. Calculate the hourglass sum for every hourglass in array.
 ## 8. Time Conversion
 Given a time in 12-hour AM/PM format, convert it to military (24-hour) time. 
 ## 7. Birthday Cake Candles
@@ -9,9 +11,9 @@ Given five positive integers, find the minimum and maximum values that can be ca
 Display a staircase from where the top is on right.
 ## 4. Plus Minus
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
-## 3. Diagonal Differences (Easy)
+## 3. Diagonal Differences
 Given a square matrix, calculate the absolute difference between the sums of its diagonals. 
-## 2. A very Big Sum (Easy)
+## 2. A very Big Sum
 In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
-## 1. Reverse Array (Easy)
+## 1. Reverse Array
 Reverse an array of integers. 
