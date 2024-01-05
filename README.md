@@ -1,14 +1,12 @@
 # HackerRank
+## 8. Time Conversion
+Given a time in 12-hour AM/PM format, convert it to military (24-hour) time. 
 ## 7. Birthday Cake Candles
 You are in charge of the cake for a child's birthday. Count how many candles are tallest.
 ## 6. miniMaxSum
 Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.
 ## 5. Staircase
-This is a staircase of size n = 4:
-    -
-   --
-  ---
- ----
+Display a staircase from where the top is on right.
 ## 4. Plus Minus
 Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero.
 ## 3. Diagonal Differences (Easy)
