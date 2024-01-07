@@ -1,4 +1,6 @@
 # HackerRank
+## 10. [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/)
+This problem is about implementing a dynamic array data structure. Visit the problem for details.
 ## 9. Hourglass Sum
 Given a 6 * 6 Array and an hourglass in array is a subset of values with indices falling in hourglass pattern in 's graphical representation. Calculate the hourglass sum for every hourglass in array.
 ## 8. Time Conversion
