@@ -1,4 +1,6 @@
 # HackerRank
+## 11. Left Rotation
+A left rotation operation on an array of size n shifts each of the array's elements 1 unit to the left. Given an integer, d, rotate the array that many steps left and return the result.
 ## 10. [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/)
 This problem is about implementing a dynamic array data structure. Visit the problem for details.
 ## 9. Hourglass Sum
