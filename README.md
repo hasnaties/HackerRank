@@ -1,4 +1,6 @@
 # HackerRank
+## Possible Strings
+How many copies of string S can be made from the given characters of Array N?
 ## 12. Sparse Arrays
 There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
 ## 11. Left Rotation
